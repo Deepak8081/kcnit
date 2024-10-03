@@ -179,4 +179,7 @@ function createMultiplier(multiplier) {
   const triple = createMultiplier(3);
   console.log(triple(5)); // Output: 15
   
-
+// git init - initializing a new repo
+// git status //check status
+// git add . - adds all changes in the current dir.
+// git commit -m "message"
