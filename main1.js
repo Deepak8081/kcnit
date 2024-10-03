@@ -183,3 +183,6 @@ function createMultiplier(multiplier) {
 // git status //check status
 // git add . - adds all changes in the current dir.
 // git commit -m "message"
+// git branch -M main
+// git remote add origin url
+// git push -u origin main 
